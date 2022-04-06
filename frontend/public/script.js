@@ -28,5 +28,4 @@ const loadEvent = async () => {
 
     );
 
-    window.addEventListener('load', loadEvent)
-};
+window.addEventListener('load', loadEvent)};
