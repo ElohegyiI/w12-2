@@ -1,14 +1,1 @@
- 
- 
-[
-    {
-        "name": "John",
-        "surname": "Doe",
-        "status": "active"
-    },
-    {
-        "name": "Aki",
-        "surname": "Barki",
-        "status": "passive"
-    }
-]
+[{"firstname":"John","surname":"Doe","status":"active"},{"firstname":"Aki","surname":"Barki","status":"passive"},{"firstname":"Jane","surname":"Doe","status":"active"},{"firstname":"def","surname":"ni"},{"firstname":"Kurva","surname":"Anyja"}]
